@@ -1,0 +1,6 @@
+com\example\lab7\Lab7Application.class
+com\example\lab7\config\WebConfig.class
+com\example\lab7\repository\BookRepository.class
+com\example\lab7\entity\Book.class
+com\example\lab7\controller\BookController.class
+com\example\lab7\service\BookService.class
