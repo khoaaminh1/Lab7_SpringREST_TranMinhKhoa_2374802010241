@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 09 21:27:04 ICT 2025
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1762698424970
+http\://0.0.0.0/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.7.5 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [central-insecure (http\://repo.maven.apache.org/maven2, default, releases+snapshots)]
+https\://maven-central.storage.googleapis.com/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.7.5 from/to google-maven-central (https\://maven-central.storage.googleapis.com/maven2/)\: maven-central.storage.googleapis.com\: nodename nor servname provided, or not known
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1762698424705
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.7.5 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: nodename nor servname provided, or not known
+@default-google-maven-central-https\://maven-central.storage.googleapis.com/maven2/.lastUpdated=1762697880565
