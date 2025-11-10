@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.0</version> <!-- Upgraded to Spring Boot 3.4.0 for Java 21 support -->
+		<version>3.4.11</version> <!-- Upgraded to Spring Boot 3.4.11 for Java 21 support -->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
